@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Currently growing my skills in **Cybersecurity & DevOps**  
+- 🌱 Currently growing my skills in **Cybersecurity & security engineering/research**  
 - 🔒 Passionate about **security, open-source, and problem-solving**  
 - 📫 Reach me via [Linktree](https://linktr.ee/gabriel.dakinah.vincent)  
 
