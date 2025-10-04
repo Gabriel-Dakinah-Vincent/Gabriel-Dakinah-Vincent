@@ -1,0 +1,20 @@
+name: Update GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"  # Runs every 24 hours
+  workflow_dispatch:          # Allow manual trigger
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Refresh GitHub Stats cache
+        run: |
+          curl -X GET "https://github-readme-stats.vercel.app/api?username=gabriel-dakinah-vincent&count_private=true&show_icons=true"
+          curl -X GET "https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-dakinah-vincent&layout=compact"
+          curl -X GET "https://github-readme-streak-stats.herokuapp.com/?user=gabriel-dakinah-vincent"
+
+      - name: Output confirmation
+        run: echo "✅ GitHub stats, streaks, and language cards refreshed successfully!"
