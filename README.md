@@ -80,22 +80,6 @@
 
 ---
 
-### 🐍 Watch My Contributions Come Alive  
-
-<p align="center">
-  <img src="https://github.com/gabriel-dakinah-vincent/gabriel-dakinah-vincent/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-### 📈 GitHub Metrics Dashboard  
-
-<p align="center">
-  <img src="https://github.com/gabriel-dakinah-vincent/github-metrics/blob/main/github-metrics.svg" alt="GitHub Metrics" width="80%" />
-</p>
-
----
-
 ### 💡 Quote to Code By  
 > *"Cybersecurity isn’t just about defense — it’s about curiosity, creativity, and continuous learning."*  
 
@@ -108,14 +92,4 @@
 <!-- 🌊 Footer Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
-<!-- Snake -->
-<p align="center">
-  <img src="https://github.com/gabriel-dakinah-vincent/gabriel-dakinah-vincent/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<!-- Metrics -->
-<p align="center">
-  <img src="https://github.com/gabriel-dakinah-vincent/github-metrics/blob/main/github-metrics.svg" alt="GitHub Metrics" width="75%" />
 </p>
