@@ -1,8 +1,10 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Gabriel D. Vincent</span></h1>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#58a6ff;">Gabriel D. Vincent</span>
+</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Cybersecurity+Professional;Security+Researcher+%7C+Engineer;Open-Source+Contributor;Digital+Awareness+Advocate;Lifelong+Learner+in+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=550&lines=Aspiring+Cybersecurity+Professional;Security+Researcher+%7C+Engineer;Open-Source+Contributor;Digital+Awareness+Advocate;Lifelong+Learner+in+Tech" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,9 +13,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabriel-dakinah-vincent&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/gabriel-dakinah-vincent?label=Followers&style=flat-square&color=58a6ff" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/gabriel-dakinah-vincent?label=Stars&style=flat-square&color=58a6ff" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=gabriel-dakinah-vincent&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/gabriel-dakinah-vincent?label=Followers&style=for-the-badge&color=58a6ff" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/gabriel-dakinah-vincent?label=Stars&style=for-the-badge&color=58a6ff" alt="Stars" />
 </p>
 
 ---
@@ -52,7 +54,7 @@
 ### ⚒️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,js,react,typescript,swift,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,js,react,typescript,swift,aws,vscode,figma&theme=dark" alt="Skills" />
 </p>
 
 ---
@@ -60,8 +62,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-dakinah-vincent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-dakinah-vincent&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-dakinah-vincent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-dakinah-vincent&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -89,7 +91,7 @@
 ### 📈 GitHub Metrics Dashboard  
 
 <p align="center">
-  <img src="https://github.com/gabriel-dakinah-vincent/github-metrics/blob/main/github-metrics.svg" alt="GitHub Metrics" width="75%" />
+  <img src="https://github.com/gabriel-dakinah-vincent/github-metrics/blob/main/github-metrics.svg" alt="GitHub Metrics" width="80%" />
 </p>
 
 ---
@@ -103,7 +105,17 @@
   ⭐ If you enjoy my work, consider following or starring a repository — your support means a lot!
 </p>
 
-<!-- Wave Footer -->
+<!-- 🌊 Footer Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+<!-- Snake -->
+<p align="center">
+  <img src="https://github.com/gabriel-dakinah-vincent/gabriel-dakinah-vincent/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!-- Metrics -->
+<p align="center">
+  <img src="https://github.com/gabriel-dakinah-vincent/github-metrics/blob/main/github-metrics.svg" alt="GitHub Metrics" width="75%" />
 </p>
