@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Cybersecurity+Professional;Security+Researcher+%26+Engineer;Digital+Awareness+Advocate;Open-Source+Contributor;Lifelong+Learner+in+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Cybersecurity+Professional;Security+Researcher+%7C+Engineer;Open-Source+Contributor;Digital+Awareness+Advocate;Lifelong+Learner+in+Tech" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,58 +12,47 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabriel-dakinah-vincent&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/gabriel-dakinah-vincent?label=Followers&style=flat-square&color=58a6ff" alt="Followers Badge" />
-  <img src="https://img.shields.io/github/stars/gabriel-dakinah-vincent?label=Stars&style=flat-square&color=58a6ff" alt="Stars Badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gabriel-dakinah-vincent&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/github/followers/gabriel-dakinah-vincent?label=Followers&style=flat-square&color=58a6ff" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/gabriel-dakinah-vincent?label=Stars&style=flat-square&color=58a6ff" alt="Stars" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
 
-- 🌱 Currently advancing in **Cybersecurity, Security Engineering, and Research**  
-- 🔒 Passionate about **information security, digital resilience, and ethical hacking**  
-- 💡 Exploring **threat intelligence, automation, and open-source security tools**  
-- 📚 Lifelong learner contributing to awareness and secure digital transformation  
-- 📫 Reach me via [Linktree](https://linktr.ee/gabriel.dakinah.vincent)  
+- 🌱 Currently sharpening my skills in **Cybersecurity, Security Engineering, and Research**  
+- 🔒 Passionate about **ethical hacking, digital resilience, and open-source security**  
+- ⚙️ Exploring **threat intelligence, automation, and secure cloud practices**  
+- 📫 Reach me: [gabrieldvincent0100@outlook.com](mailto:gabrieldvincent0100@outlook.com)  
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/gabriel-dakinah-vincent)  
 
 ---
 
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://medium.com/@gabriel-dakinah-vincent" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" height="40" width="40" />
-  </a>
-  <a href="mailto:gabrielvincent.csec@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-d-vincent" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-dakinah-vincent" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gabrieldvincent0100@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
+  <a href="https://medium.com/@gabriel-dakinah-vincent" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
 ---
 
+<!-- 🌊 Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
 ### ⚒️ Languages & Tools  
 
 <p align="center">
-  <a href="https://aws.amazon.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" /></a>
-  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" /></a>
-  <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" /></a>
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" /></a>
-  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" /></a>
-  <a href="https://developer.apple.com/swift/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="48" height="48" /></a>
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,js,react,typescript,swift,aws&theme=dark" />
 </p>
 
 ---
@@ -84,16 +73,37 @@
 ### 🌎 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-dakinah-vincent&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-dakinah-vincent&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 🧠 Quote to Code By  
-> *"Cybersecurity isn’t just about defense—it’s about curiosity, creativity, and continuous learning."*  
+### 🐍 Watch My Contributions Come Alive  
+
+<p align="center">
+  <img src="https://github.com/gabriel-dakinah-vincent/gabriel-dakinah-vincent/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📈 GitHub Metrics Dashboard  
+
+<p align="center">
+  <img src="https://github.com/gabriel-dakinah-vincent/github-metrics/blob/main/github-metrics.svg" alt="GitHub Metrics" width="75%" />
+</p>
+
+---
+
+### 💡 Quote to Code By  
+> *"Cybersecurity isn’t just about defense — it’s about curiosity, creativity, and continuous learning."*  
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider following or starring a repository — your support truly matters!
+  ⭐ If you enjoy my work, consider following or starring a repository — your support means a lot!
+</p>
+
+<!-- Wave Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
