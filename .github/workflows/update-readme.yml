@@ -1,0 +1,15 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update dynamic content
+        uses: actions/checkout@v4
+      - name: Generate README stats
+        run: echo "Auto-refreshing profile stats..."
