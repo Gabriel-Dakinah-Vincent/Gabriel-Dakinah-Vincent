@@ -50,7 +50,6 @@
 ---
 
 ### ✍️ Latest Blog Posts on Medium
-*(Updates automatically if GitHub Action is enabled)*  
 [Recent Articles](https://medium.com/@gabriel-dakinah-vincent)
 
 ---
@@ -62,4 +61,4 @@
 
 <p align="center">
     ⭐ If you enjoyed visiting my profile, consider **following** or **starring a repository**. Your support means a lot!
-</p>)*
+</p>
