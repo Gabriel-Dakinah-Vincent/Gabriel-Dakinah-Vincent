@@ -22,7 +22,7 @@
 ### 🌟 Skills & Tools
 
 #### **Programming & Scripting Languages**
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Swift](https://skillicons.dev/icons?i=swift)
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Swift](https://skillicons.dev/icons?i=swift) ![PowerShell](https://skillicons.dev/icons?i=powershell)
 
 #### **Cybersecurity & Scripting**
 ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Git](https://skillicons.dev/icons?i=git)
