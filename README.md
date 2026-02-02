@@ -1,19 +1,22 @@
 # Project Title
 
-A brief description of your project.
+Description of the project.
 
-## Installation
+## Scripting Languages
 
-Instructions on how to install your project.
+- Python
+- PowerShell
 
-## Usage
+## Installation Instructions
 
-Instructions on how to use your project.
+Instructions on how to install the project.
 
-## Contributing
+## Usage Instructions
 
-Guidelines for contributing to your project.
+Instructions on how to use the project.
 
 ## License
 
-Information about the license.
+This project is licensed under the MIT License.
+
+*(Updates automatically if GitHub Action is enabled)*
