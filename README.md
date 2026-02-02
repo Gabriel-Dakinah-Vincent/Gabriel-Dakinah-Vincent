@@ -1,3 +1,19 @@
-# Original README Content
+# Project Title
 
-This is the original content of README.md as it was before any changes. Please replace this with the original state from commit bfe2cb232093f461d58ba4043b2325a1851f4ad0.
+A brief description of your project.
+
+## Installation
+
+Instructions on how to install your project.
+
+## Usage
+
+Instructions on how to use your project.
+
+## Contributing
+
+Guidelines for contributing to your project.
+
+## License
+
+Information about the license.
